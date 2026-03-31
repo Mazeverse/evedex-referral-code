@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://evedex-referral-code.vercel.app/sitemap.xml
+Sitemap: https://evedex-referral-code-sigma.vercel.app/sitemap.xml
